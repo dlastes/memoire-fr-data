@@ -1,0 +1,271 @@
+{
+  "generated": "2026-07-25",
+  "bases": {
+    "1418": {
+      "label": "14-18 - Morts pour la France",
+      "chunks": [
+        {
+          "file": "1418-00.sqlite3",
+          "first_nom": "A KONG",
+          "last_nom": "BAJARD",
+          "rows": 60859,
+          "bytes": 14581760
+        },
+        {
+          "file": "1418-01.sqlite3",
+          "first_nom": "BAJARD",
+          "last_nom": "BERTHET",
+          "rows": 60859,
+          "bytes": 14753792
+        },
+        {
+          "file": "1418-02.sqlite3",
+          "first_nom": "BERTHET",
+          "last_nom": "BOUFFE",
+          "rows": 60859,
+          "bytes": 14839808
+        },
+        {
+          "file": "1418-03.sqlite3",
+          "first_nom": "BOUFFE",
+          "last_nom": "CAIRE",
+          "rows": 60859,
+          "bytes": 14929920
+        },
+        {
+          "file": "1418-04.sqlite3",
+          "first_nom": "CAIRE",
+          "last_nom": "CHAZANOEL",
+          "rows": 60859,
+          "bytes": 14819328
+        },
+        {
+          "file": "1418-05.sqlite3",
+          "first_nom": "CHAZANOEL",
+          "last_nom": "COUTURAUD",
+          "rows": 60859,
+          "bytes": 14884864
+        },
+        {
+          "file": "1418-06.sqlite3",
+          "first_nom": "COUTURE",
+          "last_nom": "DENIS",
+          "rows": 60859,
+          "bytes": 14999552
+        },
+        {
+          "file": "1418-07.sqlite3",
+          "first_nom": "DENIS",
+          "last_nom": "DUPETITMAGNIEUX",
+          "rows": 60859,
+          "bytes": 14876672
+        },
+        {
+          "file": "1418-08.sqlite3",
+          "first_nom": "DUPETITPRE",
+          "last_nom": "FONTAINE",
+          "rows": 60859,
+          "bytes": 14802944
+        },
+        {
+          "file": "1418-09.sqlite3",
+          "first_nom": "FONTAINE",
+          "last_nom": "GERST",
+          "rows": 60859,
+          "bytes": 14868480
+        },
+        {
+          "file": "1418-10.sqlite3",
+          "first_nom": "GERST",
+          "last_nom": "GUILLET",
+          "rows": 60859,
+          "bytes": 14913536
+        },
+        {
+          "file": "1418-11.sqlite3",
+          "first_nom": "GUILLET",
+          "last_nom": "JASSE",
+          "rows": 60859,
+          "bytes": 15069184
+        },
+        {
+          "file": "1418-12.sqlite3",
+          "first_nom": "JASSE",
+          "last_nom": "LANGLAIS",
+          "rows": 60859,
+          "bytes": 14917632
+        },
+        {
+          "file": "1418-13.sqlite3",
+          "first_nom": "LANGLAIS",
+          "last_nom": "LEGATE",
+          "rows": 60859,
+          "bytes": 15237120
+        },
+        {
+          "file": "1418-14.sqlite3",
+          "first_nom": "LEGATE",
+          "last_nom": "MAILLOT",
+          "rows": 60859,
+          "bytes": 15237120
+        },
+        {
+          "file": "1418-15.sqlite3",
+          "first_nom": "MAILLOT",
+          "last_nom": "MERLAT",
+          "rows": 60859,
+          "bytes": 14934016
+        },
+        {
+          "file": "1418-16.sqlite3",
+          "first_nom": "MERLAT",
+          "last_nom": "NADAL",
+          "rows": 60859,
+          "bytes": 14925824
+        },
+        {
+          "file": "1418-17.sqlite3",
+          "first_nom": "NADAL",
+          "last_nom": "PERONNET",
+          "rows": 60859,
+          "bytes": 14770176
+        },
+        {
+          "file": "1418-18.sqlite3",
+          "first_nom": "PERONNET",
+          "last_nom": "PROFIT",
+          "rows": 60859,
+          "bytes": 14868480
+        },
+        {
+          "file": "1418-19.sqlite3",
+          "first_nom": "PROFIT",
+          "last_nom": "ROBINET",
+          "rows": 60859,
+          "bytes": 14794752
+        },
+        {
+          "file": "1418-20.sqlite3",
+          "first_nom": "ROBINET",
+          "last_nom": "SEILLON",
+          "rows": 60859,
+          "bytes": 14934016
+        },
+        {
+          "file": "1418-21.sqlite3",
+          "first_nom": "SEILLON",
+          "last_nom": "TINON",
+          "rows": 60859,
+          "bytes": 14950400
+        },
+        {
+          "file": "1418-22.sqlite3",
+          "first_nom": "TINORO OUANDE",
+          "last_nom": "VIOTTY",
+          "rows": 60859,
+          "bytes": 14864384
+        },
+        {
+          "file": "1418-23.sqlite3",
+          "first_nom": "VIOU",
+          "last_nom": "du PUY-MONTRUN de NOZIÈRE",
+          "rows": 17463,
+          "bytes": 4227072
+        }
+      ]
+    },
+    "3945": {
+      "label": "39-45 - Militaires decedes",
+      "chunks": [
+        {
+          "file": "3945-00.sqlite3",
+          "first_nom": "A PUARI",
+          "last_nom": "DEZOUCHES",
+          "rows": 64020,
+          "bytes": 15663104
+        },
+        {
+          "file": "3945-01.sqlite3",
+          "first_nom": "DEZU",
+          "last_nom": "LEPINEUX",
+          "rows": 64020,
+          "bytes": 14876672
+        },
+        {
+          "file": "3945-02.sqlite3",
+          "first_nom": "LEPINGLE",
+          "last_nom": "SCHREIBER",
+          "rows": 64020,
+          "bytes": 14606336
+        },
+        {
+          "file": "3945-03.sqlite3",
+          "first_nom": "SCHREIBER",
+          "last_nom": "fusilier",
+          "rows": 23048,
+          "bytes": 5124096
+        }
+      ]
+    },
+    "indochine": {
+      "label": "Guerre d'Indochine - Morts pour la France",
+      "chunks": [
+        {
+          "file": "indochine.sqlite3",
+          "first_nom": "A",
+          "last_nom": "devient FICARROTTA",
+          "rows": 39327,
+          "bytes": 9834496
+        }
+      ]
+    },
+    "coree": {
+      "label": "Guerre de Coree - militaires decedes",
+      "chunks": [
+        {
+          "file": "coree.sqlite3",
+          "first_nom": "AHN",
+          "last_nom": "YUO",
+          "rows": 289,
+          "bytes": 102400
+        }
+      ]
+    },
+    "algerie-maroc-tunisie": {
+      "label": "Guerre d'Algerie, Maroc, Tunisie - Morts pour la France",
+      "chunks": [
+        {
+          "file": "algerie-maroc-tunisie.sqlite3",
+          "first_nom": "ABABSA",
+          "last_nom": "ZYLBERCAN",
+          "rows": 26008,
+          "bytes": 4096000
+        }
+      ]
+    },
+    "opex-militaires": {
+      "label": "OPEX - militaires decedes",
+      "chunks": [
+        {
+          "file": "opex-militaires.sqlite3",
+          "first_nom": "A'MAIOORO",
+          "last_nom": "de PIERREPONT",
+          "rows": 696,
+          "bytes": 212992
+        }
+      ]
+    },
+    "opex-theatres": {
+      "label": "OPEX - theatres d'operations decedes",
+      "chunks": [
+        {
+          "file": "opex-theatres.sqlite3",
+          "first_nom": "AB EL OUAHAB BEN SAID BEN BELGACEM",
+          "last_nom": "de BROSSARD",
+          "rows": 20281,
+          "bytes": 4153344
+        }
+      ]
+    }
+  }
+}
